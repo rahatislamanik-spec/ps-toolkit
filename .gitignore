@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# PowerShell / build output
+*.log
+output/
+bin/
+obj/
+
+# Secrets — NEVER commit these
+*.env
+.env
+secrets.json
+*.key
+*.pem
