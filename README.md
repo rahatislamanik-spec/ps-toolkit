@@ -66,3 +66,7 @@ A test with an incorrect assertion was introduced deliberately, caught by the lo
 ## Tooling
 
 PowerShell · Pester · PSScriptAnalyzer · GitHub Actions · GitHub Rulesets
+
+### Q&A documentation via GitHub Discussions
+The repository's Discussions tab hosts a Q&A knowledge base explaining the workflow — how CI validates changes, why status checks are required, the difference between add/commit/push, and why the branch/PR/CI model exists. Each question has an accepted answer.
+![Q&A discussions](docs/images/05-discussions.png)
